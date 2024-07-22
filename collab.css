@@ -17,6 +17,13 @@ a{
     font-family: 'Times New Roman', Times, serif;
 }
 
+h1{
+    font-size: medium;
+}
+h2{
+    font-size: small;
+}
+
 table{
     font-size: x-large;
     text-align: center;
